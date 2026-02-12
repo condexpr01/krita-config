@@ -74,20 +74,20 @@
   actions
      ai_diffusion.action
   allium.bundle_modified/workspaces
-     allium_workspace.0001.kws
+     allium_workspace.kws
   authorinfo
      condexpr01.authorinfo
   input
      alliumcanvaskeybindings.profile
   predefined_image_sizes
      allium_1920x1080_300ppi.predefinedimage
+     allium_1080x2400_300ppi.predefinedimage
   pykrita              # ai_diffusion:GPL, need to download manually and import
     ai_diffusion
      ai_diffusion.desktop
   shortcuts
      allium_keybindings.shortcuts
   windowlayouts
-     allium_layout.0001.kwl
      allium_layout.kwl
    KRITA_RESOURCE_VERSION
    allium.bundle
