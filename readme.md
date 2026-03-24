@@ -54,16 +54,16 @@
 
 # 蒙版
 
-> 一般图层可在动画曲线中控制透明度
-> 变形蒙版可在动画曲线中控制x,y,z,rotate,scale,tan等
-> 右键带动画曲线的变形蒙版，选择新建图层-基于可见内容会把动画变到图层
-> 没有透明度笔刷引擎或滤镜可以把透明度绑到压感，应该使用透明度蒙版
+> 一般图层可在动画曲线中控制透明度    
+> 变形蒙版可在动画曲线中控制x,y,z,rotate,scale,tan等     
+> 右键带动画曲线的变形蒙版，选择新建图层-基于可见内容会把动画变到图层    
+> 没有透明度笔刷引擎或滤镜可以把透明度绑到压感，应该使用透明度蒙版    
 
 
 # Comfyui
-> Downloading plugin krita-ai-diffusion, import to krita.
-> manually run comfyui need to source python venv/bin/activate in server directory, then
-> run `python main.py --listen 0.0.0.0`
+> Downloading plugin krita-ai-diffusion, import to krita.    
+> manually run comfyui need to source python venv/bin/activate in server directory, then    
+> run `python main.py --listen 0.0.0.0`    
 
 
 
